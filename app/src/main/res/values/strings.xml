@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProyecto</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="iniciarSesion">INICIAR SESION</string>
+    <string name="identification">Documento</string>
+    <string name="name">Nombre</string>
+    <string name="register">Registrarse</string>
+</resources>
